@@ -3748,11 +3748,7 @@
 		------------------------------------- */
 
 		.footer {
-<<<<<<< HEAD
-				background-image:url(http://www.ou.edu/content/dam/global/bg_black.gif);
-=======
 				background-image:url(/images/bg_black.gif);
->>>>>>> master
 				background-repeat:repeat;
 				color:#999999;
 				padding:auto;
@@ -3811,11 +3807,7 @@
 				margin: 0;
 				padding: 0;
 				text-indent: -4000px;
-<<<<<<< HEAD
-				background-image: url(http://www.ou.edu/content/dam/global/footer_social_icons.png);
-=======
 				background-image: url(/images/footer_social_icons.png);
->>>>>>> master
 		}
 		.footer #footer_social_icons a.facebook { background-position: 0 0; }
 		.footer #footer_social_icons a.facebook:hover { background-position: -46px 0; }
